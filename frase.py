@@ -1,0 +1,6 @@
+nome= input(str())
+print(nome.upper())
+print(nome.lower())
+print(len(nome.replace(" ",'')))
+pnome=nome.split()
+print(len(pnome[0]))
